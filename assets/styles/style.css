@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+.logo {
+    font-family: 'Koulen', cursive;
+}
+
+.jumbo {
+    margin-top: 2rem;
+    background: url("../img/sidoarjo.png") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: rgb(250, 239, 221);
+}
+
+body {
+    background-color: rgb(255, 248, 240);
+}
+
+hr {
+    width: 300px;
+    border: 4px solid rgb(27, 27, 27);
+}
+
+#about {
+    padding-top: 4rem;
+}
+
+#destination {
+    padding-top: 4rem;
+}
